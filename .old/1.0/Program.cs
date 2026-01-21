@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace RakeSaveFileExporter
+namespace Rake_Save_File_Exporter
 {
     internal static class Program
     {
